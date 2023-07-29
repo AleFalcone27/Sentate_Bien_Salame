@@ -1,5 +1,4 @@
 import cv2 as cv
-from winotify import Notification
 from win11toast import toast
 
 cont = 0 # Creamos el contador para detectar el iempo transcurrido 
