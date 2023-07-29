@@ -21,4 +21,4 @@
 
 ### PREVIEW DEL PROYETO 👀 ##
 **Pd: NO SOY YO EL DE LA FOTO LA SAQUE DE MEDIUM**
-  ![img](preview.jpg)
+  ![img](Preview.jpg)
