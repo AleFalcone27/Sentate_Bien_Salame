@@ -17,6 +17,7 @@
 - Si se te notifica de tu mala postura, vas a tener que arreglarla para poder continuar.
 - Si quieres chusmear o modificar el código a tu gusto, lo puedes hacer.
 
+---
 
 ### PREVIEW DEL PROYETO 👀 ##
 **Pd: NO SOY YO EL DE LA FOTO LA SAQUE DE MEDIUM**
