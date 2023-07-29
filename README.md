@@ -13,7 +13,7 @@
 - Asegúrate de tener una buena iluminación, aunque lo probé y también funciona bien en bajas condiciones de luz. 🔦
 - Clónate el repo.📔
 - Vas a necesitar instalarte 2 bibliotecas: `pip install win11toast` , `pip install opencv-python`
-- Ingresa al directorio donde guardaste el repo y escribe python sentate_bien_salame.py.📂
+- Ingresa al directorio donde guardaste el repo y escribi python `sentate_bien_salame.py`.📂
 - Si se te notifica de tu mala postura, vas a tener que arreglarla para poder continuar. 🚫
 - Si quieres chusmear o modificar el código a tu gusto, lo puedes hacer. 💻
 
