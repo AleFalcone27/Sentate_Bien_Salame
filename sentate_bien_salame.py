@@ -36,7 +36,7 @@ def throw_notification():
 
     toast("SENTATE BIEN SALAME") # Arrojamos la notificación con su mensaje (Podes customizarlo a tu gusto
 
-
+# Loop principal
 while True:
     frame = capturar_video(video_cap)  # Capturamos el video en vivo
 
