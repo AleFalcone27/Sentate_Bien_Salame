@@ -1,6 +1,6 @@
 # SENTATE BIEN SALAME
 
-### Me estaba costando mucho mantener una postura correcta mientras estaba sentado en la pc 🪑. Y Se me ocurrió darle una solución graciosa a este problema 😊
+## Me estaba costando mucho mantener una postura correcta mientras estaba sentado en la pc 🪑. Y Se me ocurrió darle una solución graciosa a este problema 😊
 
 ---
 
@@ -21,7 +21,7 @@
 
 ### PREVIEW DEL PROYETO 👀 ##
   ![img](Preview.jpg)
-  
+
 **Pd: NO SOY YO EL DE LA FOTO LA SAQUE DE MEDIUM**
 
 > Espero les guste❗️
