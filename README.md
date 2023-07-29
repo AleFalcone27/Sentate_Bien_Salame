@@ -1,6 +1,6 @@
 # SENTATE BIEN SALAME
 
-## Me estaba costando mucho mantener una postura correcta mientras estaba sentado en la pc 🪑. Y Se me ocurrió darle una solución graciosa a este problema 😊
+ Me estaba costando mucho mantener una **postura correcta** mientras estaba sentado en la pc 🪑. Y Se me ocurrió darle una solución graciosa a este problema 😊
 
 ---
 
