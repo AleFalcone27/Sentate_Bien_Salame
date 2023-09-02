@@ -13,6 +13,7 @@ Me estaba costando mucho mantener una **postura correcta** mientras estaba senta
 - Vas a necesitar instalarte 2 bibliotecas: `pip install win11toast` , `pip install opencv-python`
 - Ingresa al directorio donde guardaste el repo y escribi python `sentate_bien_salame.py`.📂
 - Si se te notifica de tu mala postura, vas a tener que arreglarla para poder continuar. 🚫
+- Podes correrlo directamente con la consola para no tener que abrir el archivo manualmente, abrite un cmd o powershell en la ubicación del archivo y escribí  `python sentate_bien_salame.py`
 - Si quieres chusmear o modificar el código a tu gusto, lo puedes hacer. 💻
 
 ---
